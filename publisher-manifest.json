@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d8d008a44635f486cffd848a",
+  "owner": "qeuasaj",
+  "repo": "page-ebd55f5bb3d9c858c46642d7",
+  "title": "马云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ebd55f5bb3d9c858c46642d7",
+      "a": "马云",
+      "b": "2027最新官网",
+      "entity": "马云",
+      "brand": "马云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "47affbf9b882a13d886df5c744890ed3b4619bd3bdbc3956abe135a34ae355cf",
+      "content": {
+        "primary_entity": "马云",
+        "keyword1": "马云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后即可在常用设备上配置订阅，开始按需使用。",
+          "AI_CLOSING_TITLE": "选择套餐并配置订阅",
+          "AI_DESCRIPTION": "，品牌海外加速器提供多档套餐，覆盖基础版、旗舰版与团队版，分别对应每月100GB、300GB、1000GB流量和3台、5台、20台设备在线额度。旗舰版增加IPLC专线游戏加速优化与7x24优先工单支持，团队版提供VIP专属高带宽节点和企业定制路由。年付价格依次为¥150、¥350、¥850，适合个人多设备、流媒体与团队协作场景按需选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度比较，找到匹配日常使用的套餐。",
+          "AI_FEATURES_TITLE": "按使用场景挑选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备，适合轻度浏览与基础流媒体解锁。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB、5台设备，IPLC专线优化游戏延迟，支持全节点原生流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB、20台设备，VIP高带宽节点与企业定制路由满足协作需求。",
+          "AI_FEATURE_TITLE_1": "入门流量档",
+          "AI_FEATURE_TITLE_2": "进阶专线档",
+          "AI_FEATURE_TITLE_3": "团队高带宽档",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅，三步即可在设备上启用加速服务。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "品牌海外加速器提供基础版、旗舰版与团队版三档订阅，按每月流量和设备在线数量区分，年付可节省费用。旗舰版与团队版增加专线和高带宽节点，适合流媒体与团队协作场景。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐，按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备在线",
+          "AI_PLANS_INTRO": "基础版月付¥15，旗舰版月付¥35，团队版月付¥85；年付分别为¥150、¥350、¥850，可按设备数和流量需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "确定常用设备数量与每月流量需求，在基础版、旗舰版、团队版之间选择对应套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认系统版本与网络环境满足客户端运行条件。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，完成节点配置后即可在设备上使用加速服务。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "多档加速套餐按需选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合个人日常浏览与基础流媒体使用。若有多设备或游戏加速需求，可考虑旗舰版每月 300GB、5 台设备在线。",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟敏感的游戏玩家和流媒体用户。普通线路节点池则覆盖日常浏览与下载场景。",
+          "AI_FAQ_ANSWER_3": "支持按年付，基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年。年付比月付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中导入订阅链接即可，桌面端与移动端均有适配版本。路由器用户可按设备文档配置订阅，团队版还支持企业定制路由。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与专属客户经理服务，适合小型团队或企业多设备协同使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么优势？",
+          "AI_FAQ_QUESTION_3": "支持按年付吗，年付价格是多少？",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "团队版能支持多少台设备？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shadowrocketgj.com",
+    "host": "shadowrocketgj.com"
+  },
+  "file_hashes": {
+    "index.html": "9a2bff7cc6908824dd088f89c0aba19df4280e44be3e5a609915bf6767c2f863",
+    "sitemap.xml": "7eebfad36eec47b88714ac1da42c94a06718a69944b1a92d2306e9abfa42a0ff",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "65625fe5e27d4dd88e755673eb4c959af00ad1199d2ec155aa5a4e27c17e5fac",
+    "robots.txt": "584069f5f45e6e8ae10bc99f170e50bf1ca7fa9768f0a63d95b07fe8f4398f60",
+    "6fdbae6f71b3c06c6c23c3c7afbf37aa.txt": "99b47c7cd68a142b78ab21ce980d452e9ec662280dc329ea4ade705f0ec25cbb"
+  },
+  "revision": "b2589e565f4fe73368f0ce6da2d591c249f2cdab15bcce61464cbda08c4daf9e"
+}
